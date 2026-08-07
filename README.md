@@ -4,10 +4,14 @@
 
 <br clear="both">
 
+## 01 — stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NatanaelJose&theme=dracula&show_icons=true&hide_border=true&count_private=true" height="150" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Natanaeljose&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=NatanaelJose&theme=dracula&show_icons=true&hide_border=true&count_private=true&cache_seconds=1800" height="150" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanaelJose&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&cache_seconds=1800" height="150" alt="languages graph" />
 </div>
+
+> Se os cards acima aparecerem quebrados, é rate-limit do serviço público — recarregue a página do GitHub depois de alguns minutos.
 
 ###
 
@@ -15,7 +19,7 @@
 
 ###
 
-## Stack
+## 02 — stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="38" alt="git logo"  />
@@ -55,7 +59,21 @@
 
 <br clear="both">
 
-## Contribution telemetry
+## 03 — projects
+
+<div align="center">
+  <a href="https://github.com/NatanaelJose/cleancontext-blog">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NatanaelJose&repo=cleancontext-blog&theme=dracula&hide_border=true&cache_seconds=1800" height="150" alt="cleancontext-blog pinned repo" />
+  </a>
+</div>
+
+> Troque `repo=cleancontext-blog` pelo nome de outros repositórios seus para adicionar mais cards — cada `<img>` de pin é independente, então basta copiar o bloco acima e trocar o parâmetro `repo`.
+
+###
+
+<br clear="both">
+
+## 04 — contribution telemetry
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NatanaelJose&bg_color=00000000&color=bd93f9&line=bd93f9&point=ff79c6&area_color=bd93f9&area=true&hide_border=true&custom_title=CONTRIBUTION%20TELEMETRY" width="97%" alt="GitHub contribution activity" />
