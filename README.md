@@ -15,6 +15,8 @@
 
 ###
 
+## Stack
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="38" alt="git logo"  />
   <img width="18" />
@@ -26,7 +28,7 @@
   <img width="18" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="38" alt="nodejs logo"  />
   <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="38" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="38" alt="express logo"  />
   <img width="18" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="38" alt="typescript logo"  />
   <img width="18" />
@@ -52,5 +54,11 @@
 ###
 
 <br clear="both">
+
+## Contribution telemetry
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NatanaelJose&bg_color=00000000&color=bd93f9&line=bd93f9&point=ff79c6&area_color=bd93f9&area=true&hide_border=true&custom_title=CONTRIBUTION%20TELEMETRY" width="97%" alt="GitHub contribution activity" />
+</div>
 
 ###
