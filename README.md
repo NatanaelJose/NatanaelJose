@@ -2,7 +2,7 @@
 
 ###
 
-## 04 — contribution telemetry
+## contribution telemetry
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NatanaelJose&bg_color=00000000&color=bd93f9&line=bd93f9&point=ff79c6&area_color=bd93f9&area=true&hide_border=true&custom_title=CONTRIBUTION%20TELEMETRY" width="97%" alt="GitHub contribution activity" />
